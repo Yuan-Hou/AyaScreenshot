@@ -1,0 +1,6 @@
+# 截图的那个框框
+color: "#66CCFF"
+stroke: 2
+# 截图的结果
+capture_width: 750
+capture_height: 750
